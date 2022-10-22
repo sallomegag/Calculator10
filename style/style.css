@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.ricxvi {
+    width: 500px;
+    margin: 50px auto;
+    margin-top: 50px;
+   
+    
+}
+
+.ricxvi input {
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.check {
+    background-color: #036c2b;
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+}
+.check:hover{
+    background-color: #029e3d;
+}
+
+.answer{
+    background-color: black;
+}
